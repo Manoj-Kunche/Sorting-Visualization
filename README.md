@@ -1,2 +1,1 @@
-# Sorting-Visualization
-frontend project
+# sorting Visualizer
