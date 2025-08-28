@@ -1,1 +1,1 @@
-# sorting Visualizer
+# Sorting-Algo-Visualizer
